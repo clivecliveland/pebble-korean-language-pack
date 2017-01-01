@@ -1437,7 +1437,7 @@ msgid ""
 "Still sweating? Your is active and will be ended soon. Open the workout "
 "to keep it going."
 msgstr ""
-"아직 땀 흘리고 있나요? 운동이 곧 종료됩니다. 계속하려면 "
+"아직 땀 흘리고 있나요? 운동이 곧 종료됩니다. "
 "계속하려면 운동 앱을 여세요."
 
 msgid "Stop Sharing Heart Rate"
