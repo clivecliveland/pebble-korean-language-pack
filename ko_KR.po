@@ -1516,7 +1516,7 @@ msgid "Timeline Past"
 msgstr "지난 타임라인"
 
 msgid "Timeout"
-msgstr "조명 끄기"
+msgstr "타임 아웃"
 
 msgid "Timezone"
 msgstr "시간대"
