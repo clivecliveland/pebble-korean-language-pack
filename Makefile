@@ -1,4 +1,4 @@
-all: c83 c83k
+all: c83 c83k c83cs
 
 
 c83: 000
@@ -8,6 +8,10 @@ c83: 000
 c83k: 000
 	cp ./templates/000 ./templates/C83k/
 	./bin/pbpack_tool.py pack ./packed/C83k.pbl ./templates/C83k/0*
+
+c83cs: 000
+	cp ./templates/000 ./templates/C83cs/
+	./bin/pbpack_tool.py pack ./packed/C83cs.pbl ./templates/C83cs/0*
 
 c83kcs: 000
 	cp ./templates/000 ./templates/C83k/
