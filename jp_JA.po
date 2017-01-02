@@ -1438,7 +1438,7 @@ msgid ""
 "to keep it going."
 msgstr ""
 "아직 땀 흘리고 있나요? 운동이 곧 종료됩니다. 계속하려면 "
-"운동 앱을 여세요
+"운동 앱을 여세요"
 
 msgid "Stop Sharing Heart Rate"
 msgstr "심박수 공유 정지"
