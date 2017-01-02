@@ -17,6 +17,11 @@ c83kcs: 000
 	cp ./templates/000 ./templates/C83k/
 	./bin/pbpack_tool.py pack ./packed/C83kcs.pbl ./templates/C83kcs/0*
 
+c83j:
+	rm -f ./templates/C83j/000
+	msgfmt jp_JA.po -o ./templates/C83j/000
+	./bin/pbpack_tool.py pack ./packed/C83j.pbl ./templates/C83j/0*
+
 000:
 	msgfmt ko_KR.po -o ./templates/000
 
