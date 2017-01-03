@@ -794,7 +794,7 @@ msgid "I feel great!"
 msgstr "괜찮습니다!"
 
 msgid "I need more"
-msgstr "만 더"
+msgstr "조금만 더"
 
 msgid "I'm still tired"
 msgstr "여전히 피곤합니다"
@@ -1112,7 +1112,7 @@ msgstr "톡톡"
 
 msgid "OFF"
 msgstr "꺼짐"
-  
+
 msgid "ON"
 msgstr "켜짐"
 
