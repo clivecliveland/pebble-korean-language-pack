@@ -245,7 +245,7 @@ msgid "<Untitled>"
 msgstr "<タイトル無し>"
 
 msgid "A good night's sleep goes a long way! Try to get more hours tonight."
-msgstr "숙면을 취하면 개운합니다! 오늘 밤은 더 자려고 노력해보세요."
+msgstr "ぐっすり寝た後は気持ちいい！今夜はもっと寝れるようにしてみましょう。"
 
 msgid "ABOVE AVG"
 msgstr "平均以上"
@@ -263,7 +263,7 @@ msgid "AVG PACE (/MI)"
 msgstr "平均ペース(/MI)"
 
 msgid "About average"
-msgstr "だいたい平均"
+msgstr "だいたいの平均"
 
 msgid "About the same"
 msgstr "ほぼ同じ"
@@ -275,7 +275,7 @@ msgid "Active"
 msgstr "使用中"
 
 msgid "Active Calories"
-msgstr "運動カロリーの消耗"
+msgstr "消費カロリー"
 
 msgid "Activity Summary"
 msgstr "活動分析"
@@ -314,10 +314,10 @@ msgid "Alarms"
 msgstr "アラーム"
 
 msgid "All Day"
-msgstr "一日中"
+msgstr "終日"
 
 msgid "All day"
-msgstr "一日中"
+msgstr "終日"
 
 msgid "Allow All Notifications"
 msgstr "全ての通知を許可する"
