@@ -4,7 +4,7 @@
 제안및 수정 PR 환영이예요~
 
 ### 버전 
-|   내려받기  | [C83](https://github.com/andrwj/pebble-slowy/raw/master/packed/C83.pbl)   | [C83k](https://github.com/andrwj/pebble-slowy/raw/master/packed/C83k.pbl)      | [C83j](https://github.com/andrwj/pebble-slowy/raw/master/packed/C83j.pbl)   | [C83cs](https://github.com/andrwj/pebble-slowy/raw/master/packed/C83cs.pbl)     | [C83kcs](https://github.com/andrwj/pebble-slowy/raw/master/packed/C83kcs.pbl) |
+|   내려받기  | [C83](https://github.com/andrwj/pebble-korean-language-pack/blob/master/packed/C83.pbl?raw=true)   | [C83k](https://github.com/andrwj/pebble-korean-language-pack/blob/master/packed/C83k.pbl?raw=true)      | [C83j](https://github.com/andrwj/pebble-korean-language-pack/blob/master/packed/C83j.pbl?raw=true)   | [C83cs](https://github.com/andrwj/pebble-korean-language-pack/blob/master/packed/C83cs.pbl?raw=true)     | [C83kcs](https://github.com/andrwj/pebble-korean-language-pack/blob/master/packed/C83kcs.pbl?raw=true) |
 |---------------| ------|-----------|--------|-----------|--------|
 | CJK/한국어전용   | CJK   | 한글       | CJK    |  CJK      |  한글   |
 | 메뉴           | 영/한   | 영/한             |   영/일        |   영/한                |    영/한       |
