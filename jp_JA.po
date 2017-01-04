@@ -245,7 +245,7 @@ msgid "<Untitled>"
 msgstr "<タイトル無し>"
 
 msgid "A good night's sleep goes a long way! Try to get more hours tonight."
-msgstr "ぐっすり寝た後は気持ちいい！今夜はもっと寝れるようにしてみましょう。"
+msgstr "ぐっすり寝た後は気持ちいい!今夜はもっと寝れるようにしてみましょう"
 
 msgid "ABOVE AVG"
 msgstr "平均以上"
@@ -344,7 +344,7 @@ msgid "April"
 msgstr "4月"
 
 msgid "Aren't naps great? You knocked out for %dH %dM!"
-msgstr "잘 잤나요? %dH %dM 동안 기절했네요!"
+msgstr "%dH %dM 間死んだように寝れました！"
 
 msgid "Aug"
 msgstr "8月"
@@ -386,7 +386,7 @@ msgid "Basic Alarm"
 msgstr "基本アラーム"
 
 msgid "Blinding"
-msgstr "最大の明るさ"
+msgstr "ピカー"
 
 msgid "Bluetooth"
 msgstr "ブルートゥース"
@@ -408,7 +408,7 @@ msgid "CALORIES"
 msgstr "カロリー"
 
 msgid "CONSISTENT!"
-msgstr "変わらないですね！"
+msgstr "変わらないですね!"
 
 msgid "CUSTOM"
 msgstr "カスタム設定"
@@ -423,13 +423,13 @@ msgid "Calendar Aware enables Quiet Time automatically during calendar events."
 msgstr "일정 방해금지는 일정이 있는 동안 방해 금지를 자동으로 켭니다."
 
 msgid "Call Accepted"
-msgstr "전화 받음"
+msgstr "応答する"
 
 msgid "Call Back"
-msgstr "다시 걸기"
+msgstr "かけ直す"
 
 msgid "Call Declined"
-msgstr "전화 거절됨"
+msgstr "着信拒否"
 
 msgid "Call Ended"
 msgstr "전화 종료"
